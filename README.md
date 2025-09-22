@@ -47,8 +47,3 @@ The **Netflix dataset** was chosen for this task.
 ## 📁 Files Included
 - `Netflix_Cleaned.csv` → Cleaned dataset (ready for analysis)  
 - `README.md` → This summary file  
-
----
-
-✅ Dataset is now clean, consistent, and ready for further analysis or visualization.
-
